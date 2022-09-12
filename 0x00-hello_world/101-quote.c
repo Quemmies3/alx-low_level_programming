@@ -20,5 +20,4 @@ int main(void)
 	"S" (s),
 	"d" (l));
 	return (1);
-
 }

@@ -3,8 +3,8 @@
 /**
  * print_sign - Code entry
  *
- * Description: A fuction that check if a number is a negative, positive or zero
- * integer.
+ * Description: A fuction that check if a number is a negative, positive or
+ * zero integer.
  *
  * @n: The integer value it recieves
  *
